@@ -1,4 +1,4 @@
-# Carbon-emissions-from-urban-takeaway-delivery-in-China-
+# Carbon-emissions-from-urban-takeaway-delivery-in-China
 Zhong, Y., Cui, S., Bai, X. et al. Carbon emissions from urban takeaway delivery in China. npj Urban Sustain 4, 39 (2024). https://doi.org/10.1038/s42949-024-00175-8 
 
 ## Data
